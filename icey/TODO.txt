@@ -1,0 +1,18 @@
+This is a list of things left to be done
+
+    1, Change the uuid3 from a debug one, for most of the app features to work.
+
+    2, Revamp the UI
+
+    3, Refactor the code (Obviously still looks very messy)
+
+    4, Make the application start up, after the phone completes booting.
+
+    5, Make sure the application doesn't close when the user presses the "Red" button
+        on devices that have them.
+
+    6, The update module still needs to bew completed, To communicate with the a
+        domain the check for available updates
+
+    7, There is still no user documentation
+

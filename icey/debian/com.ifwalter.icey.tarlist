@@ -1,0 +1,22 @@
+# This file is created by MADDE 'dh_fixperms'.
+# MADDE 'dpkg-deb' uses this file when creating
+# 'data.tar.gz' for debian package ar archive.
+755 root root . ./alarms /
+644 root root . ./alarms/alarm.wav debian/com.ifwalter.icey/alarms/alarm.wav
+755 root root . ./opt /
+755 root root . ./opt/icey /
+755 root root . ./opt/icey/bin /
+755 root root . ./opt/icey/bin/icey debian/com.ifwalter.icey/opt/icey/bin/icey
+755 root root . ./usr /
+755 root root . ./usr/share /
+755 root root . ./usr/share/applications /
+644 root root . ./usr/share/applications/icey_harmattan.desktop debian/com.ifwalter.icey/usr/share/applications/icey_harmattan.desktop
+755 root root . ./usr/share/doc /
+755 root root . ./usr/share/doc/com.ifwalter.icey /
+644 root root . ./usr/share/doc/com.ifwalter.icey/changelog.gz debian/com.ifwalter.icey/usr/share/doc/com.ifwalter.icey/changelog.gz
+644 root root . ./usr/share/doc/com.ifwalter.icey/copyright debian/com.ifwalter.icey/usr/share/doc/com.ifwalter.icey/copyright
+755 root root . ./usr/share/icons /
+755 root root . ./usr/share/icons/hicolor /
+755 root root . ./usr/share/icons/hicolor/80x80 /
+755 root root . ./usr/share/icons/hicolor/80x80/apps /
+644 root root . ./usr/share/icons/hicolor/80x80/apps/icey80.png debian/com.ifwalter.icey/usr/share/icons/hicolor/80x80/apps/icey80.png

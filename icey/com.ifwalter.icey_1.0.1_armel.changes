@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Mon, 26 Sep 2011 23:13:20 +0100
+Source: com.ifwalter.icey
+Binary: com.ifwalter.icey
+Architecture: armel
+Version: 1.0.1
+Distribution: stable
+Urgency: low
+Maintainer: ifewalter
+Changed-By: ifewalter <ifewalter@gmail.com>
+Description: 
+ com.ifwalter.icey - Emergency Digital Passport
+Changes: 
+ com.ifwalter.icey (1.0.1) stable; urgency=low
+ .
+   * Initial Release.
+Checksums-Sha1: 
+ c6c498739483e02e1b797316d07296cbf4df1404 1512056 com.ifwalter.icey_1.0.1_armel.deb
+Checksums-Sha256: 
+ 4f85db126a15ab9c6114f43d4fe7931b8af9a2dd0420d331feb804e053c7fb1e 1512056 com.ifwalter.icey_1.0.1_armel.deb
+Files: 
+ df2fb293b11956bda131249a0d83244d 1512056 user/other optional com.ifwalter.icey_1.0.1_armel.deb
+Maemo-Display-Name: icey

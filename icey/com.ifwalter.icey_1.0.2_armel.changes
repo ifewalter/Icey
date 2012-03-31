@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 26 Sep 2011 23:13:20 +0100
+Source: com.ifwalter.icey
+Binary: com.ifwalter.icey
+Architecture: armel
+Version: 1.0.2
+Distribution: stable
+Urgency: low
+Maintainer: ifewalter
+Changed-By: ifewalter <ifewalter@gmail.com>
+Description: 
+ com.ifwalter.icey - Emergency Rescue Application
+Changes: 
+ com.ifwalter.icey (1.0.2) stable; urgency=low
+ .
+   * Code updates
+   * Bug fixes
+Checksums-Sha1: 
+ 29b292f9a17308127c44b7d0dd9ca09ddbe71d7c 2390786 com.ifwalter.icey_1.0.2_armel.deb
+Checksums-Sha256: 
+ dd4cbf932f7c5ac811987039abca61ea50431a5292edb497572dce0a6c29785f 2390786 com.ifwalter.icey_1.0.2_armel.deb
+Files: 
+ ef5e966bd04a87c335732b22ebc61d81 2390786 user/other optional com.ifwalter.icey_1.0.2_armel.deb
+Maemo-Display-Name: icey
